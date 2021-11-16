@@ -1,0 +1,16 @@
+{
+    "name": "@brugmanjoost/throttle",
+    "description": "A nodejs module to throttle events at a preset rate.",
+    "version": "1.0.0",
+    "author": "Joost Brugman",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brugmanjoost/throttle.git"
+    },
+    "keywords": [
+        "promise",
+        "async",
+        "throttle"
+    ]
+}
